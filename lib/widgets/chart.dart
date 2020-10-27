@@ -1,4 +1,4 @@
-import 'package:first_app/widgets/chart_bars.dart';
+import 'package:personal_expenses/widgets/chart_bars.dart';
 import 'package:flutter/material.dart';
 import '../models/transaction.dart';
 import './chart_bars.dart';
